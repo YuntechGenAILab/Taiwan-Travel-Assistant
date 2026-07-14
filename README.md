@@ -1,1 +1,2 @@
 # Taiwan-Travel-Assistant
+Taiwan-Travel-Assistant是一個以台灣旅遊查詢為核心的桌面型 MCP 應用。專案由 TypeScript MCP server、Electron runtime、語音辨識與 React dashboard 組成，整合 Google Maps、天氣資料與 Hotelbeds，用於處理景點資訊、路線導航、附近小吃與台灣飯店空房查詢。
