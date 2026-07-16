@@ -84,3 +84,5 @@ Copyright © TTA Development team. All Rights Reserved. 詳情請看 **[LICENSE]
 
 ## 致謝
 https://github.com/OpenFormosa 感謝開發團隊釋出台灣用的TTS
+
+
