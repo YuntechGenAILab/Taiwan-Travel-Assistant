@@ -1,0 +1,247 @@
+TAIWAN TRAVEL ASSISTANT (TTA) PROPRIETARY LICENSE
+
+Copyright © 2026 TTA Development Team.
+All rights reserved.
+
+Project: Taiwan Travel Assistant (TTA)
+Sole Developer: leo2783
+GitHub: https://github.com/leo2783
+Affiliation: Yuntech Gen AI Lab
+
+1. Scope
+
+This license applies to the Taiwan Travel Assistant software and all related source code, object code, executable files, documentation, configurations, prompts, workflows, user-interface assets, databases, model-related files, updates, and other materials distributed as part of or in connection with the software, collectively referred to as the “Software,” except where a separate license is expressly stated.
+
+2. Ownership
+
+The Software is proprietary and confidential.
+
+All intellectual property rights in and to the Software are owned by or licensed to the TTA Development Team, subject to any applicable agreements, institutional policies, third-party rights, or other legal obligations.
+
+Possession of, access to, viewing of, or receipt of the Software does not transfer ownership or grant any license, permission, or other rights, except as expressly provided in a separate written agreement approved by an authorized representative of the TTA Development Team.
+
+Repository access, GitHub permissions, contributor access, credentials, demonstrations, or communications with the developer do not independently constitute authorization to use, copy, modify, disclose, or distribute the Software.
+
+3. Restrictions
+
+Unless expressly authorized by a separate written agreement approved by an authorized representative of the TTA Development Team, you may not, directly or indirectly:
+
+(a) use, execute, deploy, test, evaluate, demonstrate, or commercially exploit the Software;
+
+(b) copy, reproduce, modify, adapt, translate, alter, or create derivative works based on the Software;
+
+(c) distribute, publish, disclose, transmit, sublicense, sell, assign, lease, lend, host, upload, provide as a service, or otherwise make the Software available to any third party;
+
+(d) reverse engineer, decompile, disassemble, decode, inspect, analyze, or otherwise attempt to derive the source code, underlying structure, architecture, algorithms, models, prompts, workflows, or internal operation of the Software;
+
+(e) use the Software, its outputs, or any portion of it to train, fine-tune, evaluate, benchmark, imitate, reproduce, or develop another model, system, product, dataset, or service;
+
+(f) remove, conceal, modify, or alter any copyright notice, proprietary notice, attribution, watermark, security mechanism, access-control notice, or licensing information;
+
+(g) circumvent or attempt to circumvent any technical protection, authentication mechanism, usage restriction, rate limit, security control, or access-control measure associated with the Software;
+
+(h) use the Software in any manner that violates applicable laws, regulations, third-party rights, contractual obligations, privacy requirements, or platform terms; or
+
+(i) represent that you own, developed, officially maintain, endorse, or are affiliated with the Software without prior written authorization.
+
+No rights are granted by implication, estoppel, exhaustion, waiver, or otherwise.
+
+4. Authorized Access and Evaluation
+
+Any access, testing, demonstration, evaluation, academic use, research use, internal use, deployment, integration, modification, or other permitted activity must be expressly approved in writing by an authorized representative of the TTA Development Team.
+
+Any authorization remains limited to the purpose, persons, organizations, systems, locations, duration, scope, and conditions stated in the applicable written agreement.
+
+Unless explicitly stated otherwise, authorization granted to one person or organization may not be transferred, sublicensed, shared, or extended to another person or organization.
+
+Any evaluation copy, demonstration environment, temporary credential, development build, or test deployment may be revoked at any time.
+
+5. Confidentiality
+
+Unless expressly identified as public by an authorized representative of the TTA Development Team, all non-public Software and related materials must be treated as confidential information.
+
+Confidential information includes, without limitation:
+
+* source code and object code;
+* system architecture and internal workflows;
+* prompts, model configurations, and evaluation methods;
+* credentials, keys, tokens, endpoints, and infrastructure details;
+* datasets, database structures, and non-public outputs;
+* product plans, technical documentation, and business information;
+* security mechanisms, vulnerabilities, and testing results; and
+* any other information that a reasonable person would understand to be confidential.
+
+Recipients must use reasonable administrative, technical, and physical safeguards to prevent unauthorized access, disclosure, copying, alteration, loss, or misuse.
+
+Recipients must promptly notify the TTA Development Team of any known or suspected unauthorized access, disclosure, security incident, credential exposure, or loss involving the Software.
+
+6. Third-Party Materials
+
+The Software may include, integrate, depend on, communicate with, or otherwise use third-party software, libraries, frameworks, models, datasets, APIs, content, platforms, and services.
+
+All third-party materials remain subject to their respective licenses, notices, usage restrictions, privacy policies, acceptable-use policies, and terms of service.
+
+This license does not grant any rights to third-party materials beyond the rights granted by their respective owners or providers.
+
+Where the terms applicable to third-party material conflict with this license, the third-party terms govern only that third-party material.
+
+Users are responsible for independently confirming that their use of third-party materials complies with all applicable licenses and terms.
+
+7. Data, Models, and External Services
+
+Access to the Software does not grant ownership of or unrestricted rights to any dataset, model, model weight, API, external service, generated content, personal data, or third-party resource used by or connected to the Software.
+
+Users must comply with all applicable privacy, data-protection, intellectual-property, model-license, API, and service-provider requirements.
+
+No permission is granted to extract, reconstruct, scrape, republish, redistribute, or reuse data, model outputs, service responses, or system-generated materials except where expressly authorized in writing and permitted by applicable third-party terms.
+
+8. Trademarks and Attribution
+
+No permission is granted to use the names, trademarks, service marks, logos, domain names, project names, branding, or visual identity of:
+
+* Taiwan Travel Assistant;
+* TTA;
+* TTA Development Team;
+* Yuntech Gen AI Lab;
+* the sole developer; or
+* any contributor or affiliated party.
+
+Such names and identifiers may not be used to imply endorsement, sponsorship, certification, partnership, ownership, or official affiliation without prior written authorization.
+
+The identification of a developer, contributor, laboratory, institution, or GitHub account does not independently grant that person or organization authority to license, sublicense, assign, waive, or transfer rights in the Software.
+
+1. Security and Access Credentials
+
+Any credentials, access tokens, API keys, repository permissions, deployment accounts, test accounts, or other access mechanisms provided in connection with the Software are personal, limited, revocable, and confidential.
+
+Recipients may not share, transfer, publish, reuse, duplicate, or expose credentials to any unauthorized person.
+
+Access must be limited to the systems, environments, repositories, and purposes expressly approved in writing.
+
+The TTA Development Team may suspend or revoke access where unauthorized activity, security risk, misuse, breach, or suspected breach occurs.
+
+10. Termination
+
+Any unauthorized use of the Software or breach of this license immediately terminates any permission previously granted in relation to the Software, without limiting any other rights or remedies available to the copyright holder or other affected parties.
+
+Upon termination, expiration of authorization, or written request, you must immediately:
+
+(a) stop using, accessing, executing, modifying, and distributing the Software;
+
+(b) delete or return all copies of the Software and related confidential materials in your possession or control;
+
+(c) revoke access provided to employees, contractors, agents, collaborators, or systems;
+
+(d) delete stored credentials, cached data, backups, and derivative materials where legally and technically possible; and
+
+(e) confirm deletion or return in writing when requested.
+
+Retention is permitted only where required by applicable law, and any retained material remains subject to the confidentiality and use restrictions contained in this license.
+
+Sections concerning ownership, confidentiality, third-party materials, trademarks, disclaimers, liability, governing law, jurisdiction, remedies, and interpretation survive termination.
+
+11. Disclaimer of Warranty
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED “AS IS” AND “AS AVAILABLE.”
+
+THE TTA DEVELOPMENT TEAM, THE SOLE DEVELOPER, YUNTECH GEN AI LAB, CONTRIBUTORS, AND AFFILIATED PARTIES MAKE NO WARRANTIES OR REPRESENTATIONS OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE.
+
+THIS INCLUDES, WITHOUT LIMITATION, WARRANTIES OF:
+
+* MERCHANTABILITY;
+* FITNESS FOR A PARTICULAR PURPOSE;
+* ACCURACY;
+* COMPLETENESS;
+* RELIABILITY;
+* AVAILABILITY;
+* PERFORMANCE;
+* SECURITY;
+* PRIVACY;
+* TITLE;
+* QUIET ENJOYMENT;
+* NON-INFRINGEMENT; AND
+* FREEDOM FROM ERRORS, DEFECTS, MALWARE, OR INTERRUPTION.
+
+No statement, documentation, demonstration, communication, or technical assistance creates any warranty unless expressly stated in a separate written agreement.
+
+12. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE TTA DEVELOPMENT TEAM, THE SOLE DEVELOPER, YUNTECH GEN AI LAB, CONTRIBUTORS, LICENSORS, AND AFFILIATED PARTIES SHALL NOT BE LIABLE FOR ANY:
+
+* INDIRECT DAMAGES;
+* INCIDENTAL DAMAGES;
+* SPECIAL DAMAGES;
+* EXEMPLARY DAMAGES;
+* CONSEQUENTIAL DAMAGES;
+* PUNITIVE DAMAGES;
+* LOSS OF DATA;
+* LOSS OF PRIVACY;
+* LOSS OF REVENUE;
+* LOSS OF PROFITS;
+* LOSS OF BUSINESS;
+* LOSS OF OPPORTUNITY;
+* LOSS OF GOODWILL;
+* SERVICE INTERRUPTION;
+* SYSTEM FAILURE;
+* SECURITY INCIDENT;
+* THIRD-PARTY CLAIM; OR
+* COST OF SUBSTITUTE PRODUCTS OR SERVICES.
+
+This limitation applies to claims arising from or relating to access to, use of, inability to use, misuse of, reliance on, modification of, distribution of, or interaction with the Software, regardless of the legal theory asserted and even where the possibility of such damages was known or communicated.
+
+Nothing in this license excludes or limits liability that cannot lawfully be excluded or limited under applicable law.
+
+13. Indemnification
+
+To the maximum extent permitted by applicable law, any person or organization that uses, modifies, distributes, deploys, discloses, or otherwise handles the Software without authorization agrees to indemnify and hold harmless the TTA Development Team, the sole developer, Yuntech Gen AI Lab, contributors, and affiliated parties from claims, damages, liabilities, losses, penalties, and reasonable expenses arising from such unauthorized activity.
+
+This section does not apply where prohibited by applicable law or where otherwise stated in a separate written agreement.
+
+14. Governing Law and Jurisdiction
+
+This license is governed by the laws of the Republic of China (Taiwan), without regard to conflict-of-law principles.
+
+Unless otherwise required by applicable law or expressly agreed in writing, the Taiwan Yunlin District Court shall have exclusive jurisdiction as the court of first instance over any dispute arising from or relating to this license or the Software.
+
+15. Written Agreements and Authorization
+
+Any permission, exception, waiver, license, transfer, assignment, disclosure approval, or grant of rights concerning the Software is valid only when expressly stated in a written agreement or written approval issued by an authorized representative of the TTA Development Team.
+
+Verbal discussions, informal conversations, repository access, technical support, demonstrations, messages from unauthorized persons, or failure to enforce a restriction do not constitute a waiver or grant of rights.
+
+Where a separate written agreement conflicts with this license, the separate written agreement controls only to the extent of the expressly stated conflict.
+
+16. Severability
+
+If any provision of this license is held to be invalid, unlawful, or unenforceable, that provision shall be interpreted or limited to the minimum extent necessary to make it enforceable.
+
+The remaining provisions continue in full force and effect.
+
+17. No Waiver
+
+Failure or delay in exercising any right or enforcing any provision under this license does not constitute a waiver of that right or provision.
+
+A waiver is effective only when expressly made in writing by an authorized representative of the TTA Development Team.
+
+18. Entire Notice
+
+This license constitutes the general proprietary notice applicable to the Software unless a separate written agreement expressly provides otherwise.
+
+Additional repository notices, confidentiality agreements, contribution agreements, third-party notices, institutional policies, and project-specific terms may also apply.
+
+19. Contact and Developer Information
+
+Requests for licensing, evaluation, academic collaboration, research collaboration, commercial use, deployment, modification, or distribution may be directed to:
+
+TTA Development Team
+Yuntech Gen AI Lab
+Email: [michaelee@yuntech.edu.tw](mailto:michaelee@yuntech.edu.tw)
+
+Sole Developer:
+
+GitHub Username: leo2783
+GitHub Profile: https://github.com/leo2783
+
+The sole developer’s GitHub account is provided for identification and attribution purposes.
+
+Repository access, GitHub organization membership, collaborator permissions, commit access, pull-request access, issue participation, or direct communication with the developer does not independently grant any license or permission to use, copy, modify, publish, disclose, deploy, or distribute the Software.
