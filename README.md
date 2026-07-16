@@ -69,7 +69,7 @@ Demo之圖標為開發中錄製，現在已assert裡為主。
 
 
 ## 系統架構
-![TTA](assert\pipeline.svg)
+![TTA](https://github.com/YuntechGenAILab/Taiwan-Travel-Assistant/blob/main/assert/pipeline.svg)
 <center>TTA Pipeline</center>
 
 
