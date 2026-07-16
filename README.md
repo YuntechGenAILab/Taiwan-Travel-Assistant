@@ -37,7 +37,7 @@ Demo之圖標為開發中錄製，現在已assert裡為主。
 ## Demo
 ### 查詢景點
 <p align="center">
-  <video src="assert\TTV_KH_station_compressed.mp4" width="100%" max-width="800px" controls="controls" muted="muted" preload="metadata">
+  <video src="https://github.com/YuntechGenAILab/Taiwan-Travel-Assistant/blob/main/assert/TTV_KH_station_compressed.mp4" width="100%" max-width="800px" controls="controls" muted="muted" preload="metadata">
     Your browser does not support the video tag.
   </video>
 </p>
