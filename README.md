@@ -51,7 +51,7 @@ Demo之圖標為開發中錄製，現在已assert裡為主。
 
 ### 找飯店
 <p align="center">
-  <video src="assert\2026-07-15_14-50-33.mp4" width="100%" max-width="800px" controls="controls" muted="muted" preload="metadata">
+  <video src="https://github.com/YuntechGenAILab/Taiwan-Travel-Assistant/blob/main/assert/2026-07-15_14-50-33.mp4" width="100%" max-width="800px" controls="controls" muted="muted" preload="metadata">
     Your browser does not support the video tag.
   </video>
 </p>
@@ -70,7 +70,7 @@ Demo之圖標為開發中錄製，現在已assert裡為主。
 
 ## 系統架構
 ![TTA](https://github.com/YuntechGenAILab/Taiwan-Travel-Assistant/blob/main/assert/pipeline.svg)
-<center>TTA Pipeline</center>
+<p align="center">TTA Pipeline</p>
 
 
 ## 限制
