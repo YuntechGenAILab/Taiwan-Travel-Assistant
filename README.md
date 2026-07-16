@@ -37,7 +37,7 @@ Demo之圖標為開發中錄製，現在已assert裡為主。
 ## Demo
 ### 查詢景點
 <p align="center">
-  <a href="https://github.com/YuntechGenAILab/Taiwan-Travel-Assistant/blob/main/assert/TTV_KH_station_compressed.mp4">
+  <a href="https://raw.githubusercontent.com/YuntechGenAILab/Taiwan-Travel-Assistant/main/assert/TTV_KH_station_compressed.mp4">
     <img
       src="assert/TTV_KH_station_preview.png"
       alt="高雄車站查詢 Demo"
