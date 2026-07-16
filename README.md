@@ -37,23 +37,47 @@ Demo之圖標為開發中錄製，現在已assert裡為主。
 ## Demo
 ### 查詢景點
 <p align="center">
-  <video src="https://github.com/YuntechGenAILab/Taiwan-Travel-Assistant/blob/main/assert/TTV_KH_station_compressed.mp4" width="100%" max-width="800px" controls="controls" muted="muted" preload="metadata">
-    Your browser does not support the video tag.
-  </video>
+  <a href="https://github.com/YuntechGenAILab/Taiwan-Travel-Assistant/blob/main/assert/TTV_KH_station_compressed.mp4">
+    <img
+      src="assert/TTV_KH_station_preview.png"
+      alt="高雄車站查詢 Demo"
+      width="900"
+    >
+  </a>
+</p>
+
+<p align="center">
+  點擊圖片觀看完整影片
 </p>
 
 ### 導航
 <p align="center">
-  <video src="assert\2026-07-15_14-48-56.mp4" width="100%" max-width="800px" controls="controls" muted="muted" preload="metadata">
-    Your browser does not support the video tag.
-  </video>
+  <a href="https://github.com/YuntechGenAILab/Taiwan-Travel-Assistant/blob/main/assert/2026-07-15_14-48-56.mp4">
+    <img
+      src="assert/2026-07-15_14-48-56.png"
+      alt="高雄車站查詢 Demo"
+      width="900"
+    >
+  </a>
+</p>
+
+<p align="center">
+  點擊圖片觀看完整影片
 </p>
 
 ### 找飯店
 <p align="center">
-  <video src="https://github.com/YuntechGenAILab/Taiwan-Travel-Assistant/blob/main/assert/2026-07-15_14-50-33.mp4" width="100%" max-width="800px" controls="controls" muted="muted" preload="metadata">
-    Your browser does not support the video tag.
-  </video>
+  <a href="https://github.com/YuntechGenAILab/Taiwan-Travel-Assistant/blob/main/assert/2026-07-15_14-50-33.mp4">
+    <img
+      src="assert/2026-07-15_14-50-33.png"
+      alt="高雄車站查詢 Demo"
+      width="900"
+    >
+  </a>
+</p>
+
+<p align="center">
+  點擊圖片觀看完整影片
 </p>
 
 ## 執行環境
