@@ -47,12 +47,12 @@ Demo之圖標為開發中錄製，現在已assert裡為主。
 </p>
 
 <p align="center">
-  點擊圖片觀看完整影片
+  點擊圖片觀看完整影片(檔案過大只能下載觀看)
 </p>
 
 ### 導航
 <p align="center">
-  <a href="https://github.com/YuntechGenAILab/Taiwan-Travel-Assistant/blob/main/assert/2026-07-15_14-48-56.mp4">
+  <a href="https://github.com/user-attachments/assets/389bc8ea-8b2d-4e0b-b898-5de9f19be4bf">
     <img
       src="assert/2026-07-15_14-48-56.png"
       alt="高雄車站查詢 Demo"
@@ -67,7 +67,7 @@ Demo之圖標為開發中錄製，現在已assert裡為主。
 
 ### 找飯店
 <p align="center">
-  <a href="https://github.com/YuntechGenAILab/Taiwan-Travel-Assistant/blob/main/assert/2026-07-15_14-50-33.mp4">
+  <a href="https://github.com/user-attachments/assets/a785ee7a-c10b-4ea1-805b-309e0d540b38">
     <img
       src="assert/2026-07-15_14-50-33.png"
       alt="高雄車站查詢 Demo"
